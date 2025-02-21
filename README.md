@@ -16,7 +16,6 @@ This project involves data cleaning and analysis of a merged dataset, including 
 ## **Technologies Used**
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook**: Interactive data exploration and visualization
-- **SQL** (if applicable): Querying and managing structured data
 - **Excel/CSV**: Data storage and preprocessing
 
 ## **Dataset Sources**
