@@ -31,3 +31,15 @@ This project involves data cleaning and analysis of a merged dataset, including 
 4. **Exploratory Data Analysis (EDA)**: Identify trends, distributions, and outliers.
 5. **Visualization & Correlation Analysis**: Generate plots and measure relationships between variables.
 6. **Insights & Recommendations**: Draw conclusions based on analysis and suggest potential applications.
+7. ## **Results & Insights**
+- Identified key trends in energy consumption, economic growth, and scientific research.
+- Highlighted correlations between energy supply and GDP.
+- Presented visual insights to support conclusions.
+- Provided data-driven recommendations for further research and policy implications.
+
+## **Future Work**
+- Expanding analysis to include more countries.
+- Incorporating additional datasets for deeper insights.
+- Applying machine learning models for predictive analysis.
+- Automating the analysis pipeline for real-time updates.
+
